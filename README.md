@@ -1,1 +1,1 @@
-# learning-python
+My python 3 practice codes from [Hands-on Python Tutorial](http://anh.cs.luc.edu/python/hands-on/3.1/) by A. N. Harrington and [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html) by B. Miller and D. Ranum.
