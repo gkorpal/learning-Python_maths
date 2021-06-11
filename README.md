@@ -1,6 +1,6 @@
 My Python3 practice codes during the academic year 2020-21. 
 
-References:
+References (click on the images to access their online version):
 
 <p>
 <center>
