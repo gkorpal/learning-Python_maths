@@ -1,1 +1,20 @@
-My Python3 practice codes from [Hands-on Python Tutorial](http://anh.cs.luc.edu/python/hands-on/3.1/) by A. N. Harrington and [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html) by B. Miller and D. Ranum.
+My Python3 practice codes during the academic year 2020-21. 
+
+References:
+
+<p>
+<center>
+    <a href="https://problemsolvingwithpython.com/">
+     <img alt="matplot" src="https://gkorpal.github.io/images/ppysd.jpg"
+       width="210" height="300" class="center">
+  </a>
+  <a href="http://anh.cs.luc.edu/python/hands-on/3.1/">
+     <img alt="hands-on" src="https://gkorpal.github.io/images/hotp.png"
+       width="210" height="300" class="center">
+  </a>
+  <a href="https://runestone.academy/runestone/books/published/pythonds/index.html">
+     <img alt="MIT" src="https://gkorpal.github.io/images/ppty.jpg"
+       width="210" height="300" class="center">
+  </a>
+   </center>
+ </p>
