@@ -1,6 +1,6 @@
 My Python 3 practice codes from the [mathematics explorations](https://gkorpal.github.io/posts/2021/01/higher-arithmetic-computations/#python-general-purpose-programming-language-open-source) I did during the academic year 2020-21. 
 
-References (click on the images to access their online version):
+References for these codes (click on the images to access their online version):
 
 <p>
 <center>
