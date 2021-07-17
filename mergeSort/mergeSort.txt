@@ -1,0 +1,12 @@
+> ./mergeSort.py
+Random number list 1 : [40, 99, 25, 9, 52, 14, 63, 96]
+Sorted number list 1 : [9, 14, 25, 40, 52, 63, 96, 99]
+
+Random number list 2 : [9, 52, 96, 14, 25, 40, 99, 63]
+Sorted number list 2 : [9, 14, 25, 40, 52, 63, 96, 99]
+
+Random number list 3 : [9, 14, 99, 40, 52, 25, 96, 63]
+Sorted number list 3 : [9, 14, 25, 40, 52, 63, 96, 99]
+
+Random number list 4 : [99, 63, 52, 9, 25, 96, 40, 14]
+Sorted number list 4 : [9, 14, 25, 40, 52, 63, 96, 99]

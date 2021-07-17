@@ -1,0 +1,12 @@
+> ./insertionSort.py
+Random number list 1 : [13, 99, 41, 64, 90, 95, 60, 82]
+Sorted number list 1 : [13, 41, 60, 64, 82, 90, 95, 99]
+
+Random number list 2 : [90, 64, 13, 41, 60, 99, 95, 82]
+Sorted number list 2 : [13, 41, 60, 64, 82, 90, 95, 99]
+
+Random number list 3 : [13, 90, 95, 82, 41, 99, 64, 60]
+Sorted number list 3 : [13, 41, 60, 64, 82, 90, 95, 99]
+
+Random number list 4 : [64, 82, 95, 90, 41, 13, 60, 99]
+Sorted number list 4 : [13, 41, 60, 64, 82, 90, 95, 99]
