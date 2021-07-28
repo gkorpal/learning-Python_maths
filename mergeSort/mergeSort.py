@@ -1,7 +1,7 @@
 #!/usr/bin/python3.6
 
 # file: mergeSort.py
-# suthor: Gaurish Korpal
+# author: Gaurish Korpal
 # purpose: apply merge sort on arrays consisting of random numbers
 
 
