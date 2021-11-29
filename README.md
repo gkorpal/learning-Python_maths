@@ -19,4 +19,4 @@ Primary references (click on the images to access their online version):
    </center>
  </p>
 
-Better option: [CS61A @ UCBerkeley](https://inst.eecs.berkeley.edu/~cs61a/archives.html) with [its textbook](http://composingprograms.com/).
+**Better option:** [CS61A @ UCBerkeley](https://inst.eecs.berkeley.edu/~cs61a/archives.html) with [its textbook](http://composingprograms.com/).
