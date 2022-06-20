@@ -12,11 +12,6 @@ Primary references (click on the images to access their online version):
      <img alt="hands-on" src="https://gkorpal.github.io/images/hotp.png"
        width="210" height="300" class="center">
   </a>
-  <a href="https://runestone.academy/runestone/books/published/pythonds/index.html">
-     <img alt="MIT" src="https://gkorpal.github.io/images/ppty.jpg"
-       width="210" height="300" class="center">
-  </a>
-   </center>
  </p>
 
 **Better option:** Ideally, one should have computer science background equivalent to this [Coursera specialization by Rice University](https://online.rice.edu/courses/computer-fundamentals/). However, I don't have that much time or patience. Therefore, I will rely on the [following resources](https://legacy.python.org/workshops/2002-02/papers/15/index.htm):
